@@ -26,7 +26,7 @@ Possible sources of information for projects:
 "
 # Step A is done
 "
-Presenter: Nahorai celebrated
+Presenter: Nahorai Hagag
 ID : *****
 GIT
 DATABASE
