@@ -14,7 +14,7 @@ from statsmodels.stats.multicomp import pairwise_tukeyhsd
 import statsmodels.api as sm
 
 # Load and prepare dataset
-df = pd.read_csv("../prepared_drug_overdose_dataset.csv")
+df = pd.read_csv("../../prepared_drug_overdose_dataset.csv")
 
 # Data preprocessing
 encoder = OneHotEncoder()
